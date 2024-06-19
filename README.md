@@ -155,10 +155,17 @@ Announcement](https://github.com/amphitheatre-app/playground/issues/4).
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/lispking">
-                    <img src="https://avatars.githubusercontent.com/u/4446580?v=4" width="100;" alt="lispking"/>
+                <a href="https://github.com/dethan3">
+                    <img src="https://avatars.githubusercontent.com/u/33822639?v=4" width="100;" alt="dethan3"/>
                     <br />
-                    <sub><b>King</b></sub>
+                    <sub><b>DEthan3</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/wangeguo">
+                    <img src="https://avatars.githubusercontent.com/u/146697?v=4" width="100;" alt="wangeguo"/>
+                    <br />
+                    <sub><b>Eguo Wang</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -169,17 +176,10 @@ Announcement](https://github.com/amphitheatre-app/playground/issues/4).
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/GrayJyy">
-                    <img src="https://avatars.githubusercontent.com/u/122503129?v=4" width="100;" alt="GrayJyy"/>
+                <a href="https://github.com/lispking">
+                    <img src="https://avatars.githubusercontent.com/u/4446580?v=4" width="100;" alt="lispking"/>
                     <br />
-                    <sub><b>GrayJiang</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/wangeguo">
-                    <img src="https://avatars.githubusercontent.com/u/146697?v=4" width="100;" alt="wangeguo"/>
-                    <br />
-                    <sub><b>Eguo Wang</b></sub>
+                    <sub><b>King</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -198,13 +198,6 @@ Announcement](https://github.com/amphitheatre-app/playground/issues/4).
             </td>
 		</tr>
 		<tr>
-            <td align="center">
-                <a href="https://github.com/dethan3">
-                    <img src="https://avatars.githubusercontent.com/u/33822639?v=4" width="100;" alt="dethan3"/>
-                    <br />
-                    <sub><b>DEthan3</b></sub>
-                </a>
-            </td>
             <td align="center">
                 <a href="https://github.com/peewee92">
                     <img src="https://avatars.githubusercontent.com/u/20059253?v=4" width="100;" alt="peewee92"/>
